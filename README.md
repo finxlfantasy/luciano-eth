@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+# 🦄 Luciano-eth
+## **`Digital builder (Developer/Engineer/Research-Analyst)`**
 
 - 🔭 I’m currently working on getting a job, since i’m jobless lol ｡ﾟ･（>﹏<）･ﾟ｡
 - 🌱 I’m currently learning DeFi & Web3 
