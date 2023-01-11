@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects 
 - 🤔 I’m looking for help with getting a job ｡ﾟ(ﾟ∩´﹏`∩ﾟ)ﾟ｡
 - 💬 Ask me about -  Anything
-- 📫 How to reach me: @eth_luciano
+- 📫 How to reach me: @lucianoether
 
 --- 
 ### Languages and tools 
