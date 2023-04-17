@@ -1,5 +1,5 @@
 # 🦄 Luciano-eth
-## **`Digital builder (Developer/Engineer/Research-Analyst)`**
+## **`Digital builder (Developer/Engineer)`**
 
 - 🔭 I’m currently working on some nice secret projects ... > .. 0 
 - 🌱 I’m currently learning Web3 & AI/ML
